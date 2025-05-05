@@ -7,8 +7,8 @@
   },
   {
     "type": "youtube",
-    "src": "https://www.youtube.com/embed/X3X-_RS0Rjw?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 1600,
+    "src": "https://www.youtube.com/embed/Ejm0wbEOHP8?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 420,
     "start": 0
   },
   {
