@@ -67,14 +67,14 @@
   },
   {
     "type": "youtube",
-    "src": "https://www.youtube.com/embed/iS3EvkPkUeg?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 201,
+    "src": "https://www.youtube.com/embed/v=NIoHGFyZF8Y?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 420,
     "start": 0
   },
   {
     "type": "youtube",
-    "src": "https://www.youtube.com/embed/8UxUGtY0W9U?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
-    "duration": 182,
+    "src": "https://www.youtube.com/embed/BRw1sesekQg&t=79s?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 370,
     "start": 0
   }
 ]
