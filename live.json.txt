@@ -1,0 +1,80 @@
+[
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/P0xnG7H1zBw?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 300,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/X3X-_RS0Rjw?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 1600,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/3ATO1T-gybo?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 160,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/Q2H22W75jqI?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 142,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/J7nP9H_ktMo?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 919,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/vSsQzO01v5M?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 381,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/-Lnq_y6A8hc?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 80,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/qAuAduh4eEU?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 975,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/QomeI0n0QkE?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 445,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/YvHZhhSONSI?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 355,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/M_GSxJILRjQ?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 185,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/iS3EvkPkUeg?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 201,
+    "start": 0
+  },
+  {
+    "type": "youtube",
+    "src": "https://www.youtube.com/embed/8UxUGtY0W9U?autoplay=1&controls=0&modestbranding=1&showinfo=0&rel=0&autohide=1&fs=0",
+    "duration": 182,
+    "start": 0
+  }
+]
